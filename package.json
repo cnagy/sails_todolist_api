@@ -15,7 +15,7 @@
         "debug": "node debug app.js"
     },
     "main": "app.js",
-    "repository": "",
+    "repository": "https://github.com/cnagy/sails_todolist_api",
     "author": "Csongor Nagy",
     "license": "MPL 2.0"
 }
