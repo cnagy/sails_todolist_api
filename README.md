@@ -7,8 +7,11 @@ Simple Todolist API for mobile devices. Includes device registration and of cour
 Just clone and lift the Sails:
 
 `git clone https://github.com/cnagy/sails_todolist_api.git`
+
 `cd sails_todolist_api`
+
 `npm install`
+
 `sails lift`
 
 ## Documentation
@@ -27,7 +30,7 @@ _Registers a new device._
 
 PUT 	/client
 _Updates the registered device._
->Required header params:_
+>Required header params:
 >`x-api-token`
 >Required body params:
 >`token`
